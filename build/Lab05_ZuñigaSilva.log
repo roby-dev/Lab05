@@ -1,0 +1,1139 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.11)  23 APR 2021 01:20
+entering extended mode
+**"e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex"
+("e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03> (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\elsarticle.cls
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen138
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\c@tnote=\count183
+\c@fnote=\count184
+\c@cnote=\count185
+\c@ead=\count186
+\c@author=\count187
+\@eadauthor=\toks16
+\c@affn=\count188
+\absbox=\box47
+\elsarticlehighlightsbox=\box48
+\elsarticlegrabsbox=\box49
+\keybox=\box50
+\Columnwidth=\dimen142
+\space@left=\dimen143
+\els@boxa=\box51
+\els@boxb=\box52
+\leftMargin=\dimen144
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ ("e:/Universidad\UPT_2021_I\Inteligencia de Negocios\Lab04_ZuñigaSilva\build\Lab04_ZuñigaSilva.spl") (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count189
+)
+\splwrite=\write3
+\openout3 = `Lab04_ZuñigaSilva.spl'.
+
+\appnamewidth=\dimen145
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen146
+\l@babelnohyphens=\language79
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count192
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count193
+\output=\toks20
+\linenoprevgraf=\count194
+\linenumbersep=\dimen147
+\linenumberwidth=\dimen148
+\c@linenumber=\count195
+\c@pagewiselinenumber=\count196
+\c@LN@truepage=\count197
+\c@internallinenumber=\count198
+\c@internallinenumbers=\count199
+\quotelinenumbersep=\dimen149
+\bframerule=\dimen150
+\bframesep=\dimen151
+\bframebox=\box53
+LaTeX Info: Redefining \\ on input line 3056.
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:12: LaTeX Error: Two \documentclass or \documentstyle commands.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \documentclass[12pt,letterpaper]{
+                                      article}
+The document may only declare one class.
+
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks23
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks24
+\float@box=\box54
+\@float@everytoks=\toks25
+\@floatcapt=\box55
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen160
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip17
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks27
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks28
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks29
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\stackrel.sty
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count282
+\multirow@dima=\skip57
+\bigstrutjot=\dimen169
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count283
+\l__pdf_internal_box=\box58
+) ("e:/Universidad\UPT_2021_I\Inteligencia de Negocios\Lab04_ZuñigaSilva\build\Lab04_ZuñigaSilva.aux")
+\openout1 = `Lab04_ZuñigaSilva.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen170
+\scratchbox=\box59
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen171
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks33
+) (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=24.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./IMAGENES/logo.jpg, id=1, 202.7575pt x 249.93375pt>
+File: ./IMAGENES/logo.jpg Graphic file (type jpg)
+<use ./IMAGENES/logo.jpg>
+Package pdftex.def Info: ./IMAGENES/logo.jpg  used on input line 40.
+(pdftex.def)             Requested size: 113.81102pt x 140.29373pt.
+[1
+
+{C:/Users/ROBY/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./IMAGENES/logo.jpg>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 94.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 94.
+ (C:\Users\ROBY\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:99: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 			\\ \item
+                 Paso 1: Para esta guía utilizaremos el cubo creado en la g...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:103: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 			\\ \itemPaso
+                      2: Dentro de los resources seleccionaremos SQL Server ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:103: Undefined control sequence.
+<recently read> \itemPaso 
+                          
+l.103 			\\ \itemPaso
+                      2: Dentro de los resources seleccionaremos SQL Server ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:105: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/2} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/2.jpg, id=8, 345.54094pt x 233.37187pt>
+File: ./IMAGENES/2.jpg Graphic file (type jpg)
+<use ./IMAGENES/2.jpg>
+Package pdftex.def Info: ./IMAGENES/2.jpg  used on input line 105.
+(pdftex.def)             Requested size: 199.16928pt x 134.51538pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:108: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108 			\\ \item
+                  Paso 3: Utilice el nombre de host o localhost para conectarse
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:111: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/3} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/3.jpg, id=9, 340.27126pt x 179.92218pt>
+File: ./IMAGENES/3.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.jpg>
+Package pdftex.def Info: ./IMAGENES/3.jpg  used on input line 111.
+(pdftex.def)             Requested size: 199.16928pt x 105.31306pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:114: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 			\\ \item
+                  Paso 4: Una vez conectado tendremos en nuestro lado dos to...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:117: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/4} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/4.jpg, id=10, 254.45062pt x 195.73125pt>
+File: ./IMAGENES/4.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.jpg>
+Package pdftex.def Info: ./IMAGENES/4.jpg  used on input line 117.
+(pdftex.def)             Requested size: 199.16928pt x 153.2133pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:122: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 			\\ \item
+                   Paso 5: Vamos a crear nuestro primer reporte. Seleccionar...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:124: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/6} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/6.jpg, id=11, 365.11406pt x 292.09125pt>
+File: ./IMAGENES/6.jpg Graphic file (type jpg)
+<use ./IMAGENES/6.jpg>
+Package pdftex.def Info: ./IMAGENES/6.jpg  used on input line 124.
+(pdftex.def)             Requested size: 199.16928pt x 159.33586pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+[1 <./IMAGENES/2.jpg> <./IMAGENES/3.jpg> <./IMAGENES/4.jpg>]
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:135: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 			\\ \item
+                  Paso 7: Elimine la grâfica anterior y procederâ a selecc...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:137: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/7} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/7.jpg, id=16, 372.64218pt x 305.64188pt>
+File: ./IMAGENES/7.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.jpg>
+Package pdftex.def Info: ./IMAGENES/7.jpg  used on input line 137.
+(pdftex.def)             Requested size: 199.16928pt x 163.35588pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:144: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 			\\ \item
+                  Paso 8: Cree un nuevo reporte.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:147: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/8} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/8.jpg, id=17, 657.2053pt x 315.42844pt>
+File: ./IMAGENES/8.jpg Graphic file (type jpg)
+<use ./IMAGENES/8.jpg>
+Package pdftex.def Info: ./IMAGENES/8.jpg  used on input line 147.
+(pdftex.def)             Requested size: 199.16928pt x 95.59186pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:156: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 		\\ \item
+                	Paso 10: Seleccione una de los valores de la grâfica de la...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:158: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/9} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:158: LaTeX Error: File `./IMAGENES/9' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 ...\includegraphics[width=7cm]{./IMAGENES/9}
+                                                   \\
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:162: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 			\\ \item
+                  Paso 11: Ahora crearemos un mapa que muestre la proporcié...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2 <./IMAGENES/6.jpg> <./IMAGENES/7.jpg> <./IMAGENES/8.jpg>]
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:165: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/11} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/11.jpg, id=21, 587.19376pt x 356.0803pt>
+File: ./IMAGENES/11.jpg Graphic file (type jpg)
+<use ./IMAGENES/11.jpg>
+Package pdftex.def Info: ./IMAGENES/11.jpg  used on input line 165.
+(pdftex.def)             Requested size: 199.16928pt x 120.77773pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:168: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 		\\ \item
+                	Paso 12: Ahora generaremos una grâfica de area.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:172: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.172 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/12} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/12.jpg, id=22, 339.51843pt x 226.59656pt>
+File: ./IMAGENES/12.jpg Graphic file (type jpg)
+<use ./IMAGENES/12.jpg>
+Package pdftex.def Info: ./IMAGENES/12.jpg  used on input line 172.
+(pdftex.def)             Requested size: 199.16928pt x 132.92667pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:177: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/13} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/13.jpg, id=23, 299.61937pt x 213.79875pt>
+File: ./IMAGENES/13.jpg Graphic file (type jpg)
+<use ./IMAGENES/13.jpg>
+Package pdftex.def Info: ./IMAGENES/13.jpg  used on input line 177.
+(pdftex.def)             Requested size: 199.16928pt x 142.12218pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:180: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 			\\ \itemPaso
+                      14: Puede definir los nombres de las hojas para indica...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:180: Undefined control sequence.
+<recently read> \itemPaso 
+                          
+l.180 			\\ \itemPaso
+                      14: Puede definir los nombres de las hojas para indica...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:183: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/14} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/14.jpg, id=24, 358.33875pt x 265.74281pt>
+File: ./IMAGENES/14.jpg Graphic file (type jpg)
+<use ./IMAGENES/14.jpg>
+Package pdftex.def Info: ./IMAGENES/14.jpg  used on input line 183.
+(pdftex.def)             Requested size: 199.16928pt x 147.7039pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+[3 <./IMAGENES/11.jpg> <./IMAGENES/12.jpg> <./IMAGENES/13.jpg>]
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:185: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 			\\ \itemPaso
+                      15: Crearemos un reporte (grâfico de barras) con filt...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:185: Undefined control sequence.
+<recently read> \itemPaso 
+                          
+l.185 			\\ \itemPaso
+                      15: Crearemos un reporte (grâfico de barras) con filt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:189: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/15} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/15.jpg, id=28, 200.24812pt x 115.18031pt>
+File: ./IMAGENES/15.jpg Graphic file (type jpg)
+<use ./IMAGENES/15.jpg>
+Package pdftex.def Info: ./IMAGENES/15.jpg  used on input line 189.
+(pdftex.def)             Requested size: 199.16928pt x 114.56664pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:191: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 			\\ \itemPaso
+                      16: La siguiente grâfica es una Stacked Column Chart....
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:191: Undefined control sequence.
+<recently read> \itemPaso 
+                          
+l.191 			\\ \itemPaso
+                      16: La siguiente grâfica es una Stacked Column Chart....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:193: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/16} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/16.jpg, id=29, 370.38374pt x 337.26pt>
+File: ./IMAGENES/16.jpg Graphic file (type jpg)
+<use ./IMAGENES/16.jpg>
+Package pdftex.def Info: ./IMAGENES/16.jpg  used on input line 193.
+(pdftex.def)             Requested size: 199.16928pt x 181.36119pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:197: Missing $ inserted.
+<inserted text> 
+                $
+l.197 			
+         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:197: Missing } inserted.
+<inserted text> 
+                }
+l.197 			
+         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:197: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.197 			
+         
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:201: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 			\\ \itemPaso
+                      17: Incluya un Table con los siguientes campos: Sales ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:201: Undefined control sequence.
+<recently read> \itemPaso 
+                          
+l.201 			\\ \itemPaso
+                      17: Incluya un Table con los siguientes campos: Sales ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<./IMAGENES/17.jpg, id=30, 321.45094pt x 170.88844pt>
+File: ./IMAGENES/17.jpg Graphic file (type jpg)
+<use ./IMAGENES/17.jpg>
+Package pdftex.def Info: ./IMAGENES/17.jpg  used on input line 202.
+(pdftex.def)             Requested size: 199.16928pt x 105.88454pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+[4 <./IMAGENES/14.jpg> <./IMAGENES/15.jpg> <./IMAGENES/16.jpg>]
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:210: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 			\\ \item
+                  Paso 18: Cambie la orientacién del reporte:
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:213: Missing $ inserted.
+<inserted text> 
+                $
+l.213 			
+         
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:213: Missing } inserted.
+<inserted text> 
+                }
+l.213 			
+         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:213: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.213 			
+         
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:214: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/18} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/18.jpg, id=35, 362.10281pt x 265.74281pt>
+File: ./IMAGENES/18.jpg Graphic file (type jpg)
+<use ./IMAGENES/18.jpg>
+Package pdftex.def Info: ./IMAGENES/18.jpg  used on input line 214.
+(pdftex.def)             Requested size: 199.16928pt x 146.17116pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:216: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.216 			\\ \item
+                  Paso 19: Exporte su reporte para visualizacién
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:218: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 				\\ \includegraphics
+                             [width=7cm]{./IMAGENES/19} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:218: LaTeX Error: File `./IMAGENES/19' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 ...includegraphics[width=7cm]{./IMAGENES/19}
+                                                   \\
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:224: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.224 			S
+          e requiere saber cuâles son los artistas que mas han vendido en l...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+Runaway argument?
+{
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:238: Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.238 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:238: Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.238 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[5 <./IMAGENES/17.jpg> <./IMAGENES/18.jpg>]
+Runaway argument?
+{
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:245: Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.245 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+e:/Universidad/UPT_2021_I/Inteligencia de Negocios/Lab04_ZuñigaSilva/Lab04_ZuñigaSilva.tex:245: Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.245 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[6] ("e:/Universidad\UPT_2021_I\Inteligencia de Negocios\Lab04_ZuñigaSilva\build\Lab04_ZuñigaSilva.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 5431 strings out of 479799
+ 76585 string characters out of 2870197
+ 367985 words of memory out of 3000000
+ 22309 multiletter control sequences out of 15000+200000
+ 540944 words of font info for 51 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 80i,5n,85p,344b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/ROBY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ROBY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ROBY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ROBY/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "e:/Universidad\UPT_2021_I\Inteligencia de Negocios\Lab04_ZuñigaSilva\build\Lab04_ZuñigaSilva.pdf" (7 pages, 442911 bytes).
+PDF statistics:
+ 57 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
